@@ -1,0 +1,39 @@
+---
+title: "Downloading_XML"
+author: "Ariel Lopez"
+date: '2022-09-10'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This code allows to dowload a specific XML to get the file and use it in a dataframe.
+For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+
+
+```{r cars}
+#Url of the XML file
+urlString <- "https://raw.githubusercontent.com/mcd-unison/ing-caract/main/ejemplos/integracion/ejemplos/wikipedia-poetas.xml"
+pathFolder <- "C:/Users/DELL/Documents/Trabajos/Maestria/Repositorio/MCD_UNISON_MyJourny/Ingenieria_de_Caracteristicas/2_Download_XML"
+
+filePath <- paste(pathFolder, "/gitMCD.xml")
+
+download.file(url, filePath)
+
+
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
