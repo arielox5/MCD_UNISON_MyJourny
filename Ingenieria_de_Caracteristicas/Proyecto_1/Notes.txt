@@ -1,0 +1,27 @@
+
+
+Preguntas
+- ¿Cuantos accidentes fatales hay en la ciudades de Sonora?
+	- Top 10 (Grafico de barras)
+- ¿La gente usa el cinturon de seguridad?
+	- Grafico de personas que usan cinturon
+	- De los accidentes fatales, ¿Cuantos usan cinturon?
+- Numero de accidentes con alcohol
+	- Proporcion grafico pastel top 10
+- ¿Cuantas personas se fugan?
+	- Grafico 
+- Tipos de accidentes
+
+
+Procentaje de reduccion de daños Cinturon
+https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/811387
+https://www.cdc.gov/transportationsafety/seatbeltbrief/index.html#:~:text=Among%20drivers%20and%20front%2Dseat,of%20serious%20injury%20by%2050%25.
+Usar cinturon reduce riesgo de muerte entre 45%, de daños en 50%
+¿Tu que porcentaje le das a tu vida dentro den un vehiculo?
+
+
+Hermosillo = 78.09
+Caborca = 15.49
+San Luis = 28.02
+
+
