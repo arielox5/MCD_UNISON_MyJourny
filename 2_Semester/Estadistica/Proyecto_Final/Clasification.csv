@@ -1,0 +1,118 @@
+Element,Type,Species,Genus,Family
+Abies,Species,Abies,Abies,Pinaceae
+Acacia,Species,Acacia,Acacia,Fabaceae
+Agave,Species,Agave,Agave,Asparagaceae
+Alnus oblongifolia,Species,Alnus oblongifolia,Alnus,Betulaceae
+Anisacanthus type,Species,Anisacanthus,Anisacanthus,Acanthaceae
+Arbutus,Species,Arbutus,Arbutus,Ericaceae
+Berberis,Species,Berberis,Berberis,Berberidaceae
+Bursera,Genus,-,Bursera,Burseraceae
+Bursera laxiflora,Species,Bursera laxiflora,Bursera,Burseraceae
+Bursera microphylla,Species,Bursera microphylla,Bursera,Burseraceae
+Cactoideae,Family,-,Unknown,Cactaceae
+Canotia type,Species,Canotia,Canotia,Celastraceae
+Ceiba,Species,Ceiba,Ceiba,Malvaceae
+Celtis,Species,Celtis,Celtis,Cannabaceae
+Cf. Populus,Species,-,Populus,Salicaceae
+Cylindropuntia,Species,Cylindropuntia,Cylindropuntia,Cactaceae
+Dasylirion,Species,Dasylirion,Dasylirion,Asparagaceae
+Desmanthus,Species,Desmanthus,Desmanthus,Fabaceae
+Dodonaea viscosa,Species,Dodonaea viscosa,Dodonaea,Sapindaceae
+Ephedra,Species,Ephedra,Ephedra,Ephedraceae
+Fraxinus,Species,Fraxinus,Fraxinus,Oleaceae
+Juglans,Species,Juglans,Juglans,Juglandaceae
+Juniperus,Species,Juniperus,Juniperus,Cupressaceae
+Mimosa,Species,Mimosa,Mimosa,Fabaceae
+Opuntia,Species,Opuntia,Opuntia,Cactaceae
+Parkinsonia aculeata,Species,Parkinsonia aculeata,Parkinsonia,Fabaceae
+Picea,Species,Picea,Picea,Pinaceae
+Pinus,Species,Pinus,Pinus,Pinaceae
+Prosopis,Genus,-,Prosopis,Fabaceae
+Prunus,Species,Prunus,Prunus,Rosaceae
+Quercus,Species,Quercus,Quercus,Fagaceae
+Rutaceae,Family,-,Unknown,Rutaceae
+Salix,Species,Salix,Salix,Salicaceae
+Sambucus type,Species,Sambucus,Sambucus,Adoxaceae
+Tecoma stans,Species,Tecoma stans,Tecoma,Bignoniaceae
+Acanthaceae,Family,-,Unknown,Acanthaceae
+Allionia,Species,Allionia,Allionia,Nyctaginaceae
+Amaranthaceae,Family,-,Unknown,Amaranthaceae
+Ambrosia,Species,Ambrosia,Ambrosia,Asteraceae
+Apiaceae,Family,-,Unknown,Apiaceae
+Artemisia ludoviciana,Species,Artemisia ludoviciana,Artemisia,Asteraceae
+Asteroideae,Family,-,Unknown,Asteraceae
+Boerhavia type,Species,Boerhavia,Boerhavia,Nyctaginaceae
+Boraginaceae,Family,-,Unknown,Boraginaceae
+Brassicaceae,Family,-,Unknown,Brassicaceae
+Callaeum macropterum,Species,Callaeum macropterum,Callaeum,Fabaceae
+Caryophyllaceae,Family,-,Unknown,Caryophyllaceae
+Cichorioideae,Family,-,Unknown,Asteraceae
+Cirsium,Species,Cirsium,Cirsium,Asteraceae
+Clematis,Genus,-,Clematis,Ranunculaceae
+Convolvulaceae,Family,-,Unknown,Convolvulaceae
+Crassulaceae,Family,-,Unknown,Crassulaceae
+Croton type,Species,Croton,Croton,Euphorbiaceae
+Cucurbitaceae,Family,-,Unknown,Cucurbitaceae
+Cyperaceae,Family,-,Unknown,Cyperaceae
+Dalea,Genus,-,Dalea,Fabaceae
+Dicliptera,Genus,-,Dicliptera,Acanthaceae
+Eriogonum,Genus,-,Eriogonum,Polygonaceae
+Eustoma,Genus,-,Eustoma,Gentianaceae
+Euphorbiaceae,Family,-,Unknown,Euphorbiaceae
+Euphorbia,Genus,-,Euphorbia,Euphorbiaceae
+Evolvulus,Genus,-,Evolvulus,Convolvulaceae
+Faboideae,Family,-,Unknown,Fabaceae
+Gentianaceae,Family,-,Unknown,Gentianaceae
+Hibiscus type,Species,Hibiscus,Hibiscus,Malvaceae
+Ipomoea,Genus,-,Ipomoea,Convolvulaceae
+Justicia californica,Species,Justicia californica,Justicia,Acanthaceae
+Kallstroemia,Genus,-,Kallstroemia,Zygophyllaceae
+Lamiaceae,Family,-,Unknown,Lamiaceae
+Lippia type,Species,Lippia,Lippia,Verbenaceae
+Lotus type,Species,Lotus,Lotus,Fabaceae
+Lythrum,Species,Lythrum,Lythrum,Lythraceae
+Manihot,Species,Manihot,Manihot,Euphorbiaceae
+Marina,Species,Marina,Marina,Onagraceae
+Mitracarpus,Species,Mitracarpus,Mitracarpus,Rubiaceae
+Monocotyledoneae,Family,-,Unknown,Monocotyledoneae
+Nama,Species,Nama,Nama,Hydrophyllaceae
+Oenothera,Genus,-,Oenothera,Onagraceae
+Onagraceae,Family,-,Unknown,Onagraceae
+Plantago,Genus,-,Plantago,Plantaginaceae
+Poaceae,Family,-,Unknown,Poaceae
+Poaceae,Species,-,Unknown,Poaceae
+Polemoniaceae,Family,-,Unknown,Polemoniaceae
+Polygonum,Genus,-,Polygonum,Polygonaceae
+Ranunculaceae,Family,-,Unknown,Ranunculaceae
+Rhamnaceae,Family,-,Unknown,Rhamnaceae
+Rosaceae,Family,-,Unknown,Rosaceae
+Rubiaceae,Family,-,Unknown,Rubiaceae
+Solanaceae,Family,-,Unknown,Solanaceae
+Sida,Species,Sida,Sida,Malvaceae
+Sphaeralcea type,Species,Sphaeralcea,Sphaeralcea,Malvaceae
+Tetramerium nervosum,Species,Tetramerium nervosum,Tetramerium,Lamiaceae
+Tribulus,Genus,-,Tribulus,Zygophyllaceae
+Trixis californica,Species,Trixis californica,Trixis,Asteraceae
+Typha tetrads,Species,Typha,Typha,Typhaceae
+Typha monads,Species,Typha,Typha,Typhaceae
+Urtica,Species,Urtica,Urtica,Urticaceae
+Verbenaceae,Family,-,Unknown,Verbenaceae
+Zea mays,Species,Zea mays,Zea,Poaceae
+Zygophyllaceae,Family,-,Unknown,Zygophyllaceae
+Adiantum,Genus,-,Adiantum,Pteridaceae
+Anemia,Genus,-,Anemia,Anemiaceae
+Asplenium,Genus,-,Asplenium,Aspleniaceae
+Botrychium,Genus,-,Botrychium,Ophioglossaceae
+Cheilanthes,Genus,-,Cheilanthes,Pteridaceae
+Gymnocarpium,Genus,-,Gymnocarpium,Dryopteridaceae
+Lygodium cf.,Species,Lygodium,Lygodium,Lygodiaceae
+Monoleta,Genus,-,Monoleta,Lycopodiaceae
+Ophioglossum,Genus,-,Ophioglossum,Ophioglossaceae
+Osmunda,Genus,-,Osmunda,Osmundaceae
+Reticulate trilete,Species,-,Unknown,Unknown
+Selaginella,Genus,-,Selaginella,Selaginellaceae
+Pellaea,Genus,-,Pellaea,Pteridaceae
+Spore trilete without perine,Species,-,Unknown,Unknown
+Unknown trilete,Species,-,Unknown,Unknown
+Indeterminados,Species,-,Unknown,Unknown
+Indeterminables,Species,-,Unknown,Unknown
